@@ -1,0 +1,10 @@
+C:\Users\Админ\source\repos\гласненькие\гласненькие\obj\Debug\гласненькие.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\гласненькие\гласненькие\obj\Debug\гласненькие.Form1.resources
+C:\Users\Админ\source\repos\гласненькие\гласненькие\obj\Debug\гласненькие.Properties.Resources.resources
+C:\Users\Админ\source\repos\гласненькие\гласненькие\obj\Debug\гласненькие.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\гласненькие\гласненькие\obj\Debug\гласненькие.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\гласненькие\гласненькие\bin\Debug\гласненькие.exe.config
+C:\Users\Админ\source\repos\гласненькие\гласненькие\bin\Debug\гласненькие.exe
+C:\Users\Админ\source\repos\гласненькие\гласненькие\bin\Debug\гласненькие.pdb
+C:\Users\Админ\source\repos\гласненькие\гласненькие\obj\Debug\гласненькие.exe
+C:\Users\Админ\source\repos\гласненькие\гласненькие\obj\Debug\гласненькие.pdb
