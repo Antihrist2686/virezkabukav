@@ -1,0 +1,10 @@
+C:\Users\Админ\source\repos\палиндромм\палиндромм\bin\Debug\палиндромм.exe.config
+C:\Users\Админ\source\repos\палиндромм\палиндромм\bin\Debug\палиндромм.exe
+C:\Users\Админ\source\repos\палиндромм\палиндромм\bin\Debug\палиндромм.pdb
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Debug\палиндромм.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Debug\палиндромм.Form1.resources
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Debug\палиндромм.Properties.Resources.resources
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Debug\палиндромм.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Debug\палиндромм.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Debug\палиндромм.exe
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Debug\палиндромм.pdb

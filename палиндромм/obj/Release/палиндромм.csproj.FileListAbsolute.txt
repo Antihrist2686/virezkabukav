@@ -1,0 +1,9 @@
+C:\Users\Админ\source\repos\палиндромм\палиндромм\bin\Release\палиндромм.exe.config
+C:\Users\Админ\source\repos\палиндромм\палиндромм\bin\Release\палиндромм.exe
+C:\Users\Админ\source\repos\палиндромм\палиндромм\bin\Release\палиндромм.pdb
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Release\палиндромм.Form1.resources
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Release\палиндромм.Properties.Resources.resources
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Release\палиндромм.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Release\палиндромм.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Release\палиндромм.exe
+C:\Users\Админ\source\repos\палиндромм\палиндромм\obj\Release\палиндромм.pdb
